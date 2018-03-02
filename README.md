@@ -19,6 +19,7 @@ git submodule update
 
 Running:
 ```
+export SettingsUrl=appsettings.json
 cd ./Lykke.Service.Raiblocks.Sign/src/Lykke.Service.RaiblocksSign
 dotnet restore
 dotnet run
