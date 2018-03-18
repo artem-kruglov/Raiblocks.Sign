@@ -49,6 +49,7 @@ instead of
 make rai_node
 ```
 
+Compiled libsign_service.so must be placed to output directory of Lykke.Service.RaiblocksSign.
 
 # See also
  - [RaiBlocks Integration API Service](https://github.com/artem-kruglov/Raiblocks.Api/tree/dev)
